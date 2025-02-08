@@ -1,0 +1,8 @@
+matplotlib
+openai
+pandas
+yfinance
+fuzzywuzzy
+openpyxl
+python-jobspy
+tenacity
